@@ -56,7 +56,7 @@
 
 ###
 
-<p align="left">🤝 Let's Connect:</p>
+<h3 align="left">🤝 Let's Connect:</h3>
 
 ###
 
